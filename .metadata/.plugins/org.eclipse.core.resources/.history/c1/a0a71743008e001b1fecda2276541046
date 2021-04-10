@@ -1,0 +1,19 @@
+package com.dao;
+
+import java.util.List;
+
+import org.springframework.orm.hibernate5.HibernateTemplate;
+
+import com.model.Student;
+
+public class StudentDao {
+	private HibernateTemplate hibernateTemplate;
+
+	public List<Student> getAllStudent() {
+List<Student> getall = 	this.hibernateTemplate.loadAll(Student.class);
+return getall;
+		
+		return null;
+	}
+
+}

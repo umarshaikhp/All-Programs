@@ -1,0 +1,19 @@
+
+public class ThreadNaming extends Thread{
+public void run()
+{
+    System.out.println("running");
+}
+
+public static void main(String[] args) throws InterruptedException
+{
+    Thread t1 = new ThreadNaming();
+    
+
+    t1.start();
+    t1.join();
+
+
+    System.out.println(t1.getName());   
+}   
+}

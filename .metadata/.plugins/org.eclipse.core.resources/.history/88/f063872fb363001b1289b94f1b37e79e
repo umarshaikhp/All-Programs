@@ -1,0 +1,10 @@
+package com.maven;
+
+import org.omg.PortableServer.ID_ASSIGNMENT_POLICY_ID;
+
+public class Student {
+private	int id ;
+private String name;
+private String city;
+
+}

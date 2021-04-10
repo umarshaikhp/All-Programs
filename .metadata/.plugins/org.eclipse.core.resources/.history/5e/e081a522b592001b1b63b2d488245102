@@ -1,0 +1,56 @@
+package com.Controller;
+
+//import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.security.auth.login.Configuration;
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.ServletRequest;
+import javax.servlet.ServletResponse;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.omg.CORBA.PUBLIC_MEMBER;
+
+/**
+ * Servlet implementation class Servelet1
+ */
+
+public class Login extends HttpServlet {
+
+
+
+	private static final long serialVersionUID = 1L;
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+    response.setContentType("text/html");
+    PrintWriter out = response.getWriter();
+    String name=request.getParameter("username");
+    String password=request.getParameter("password");
+    System.out.println(name);
+    if (password.equals("1234")) {
+    	RequestDispatcher rd=request.getRequestDispatcher("servlet");
+    	rd.forward(request, response);
+    }
+    else {
+		out.print("<html>Sorry username or password error</html>");	
+		RequestDispatcher rd=request.getRequestDispatcher("index.jsp");
+		rd.forward(request, response);
+
+    }
+
+
+	}
+	
+}
+
+
+	//public void init (ServletConfig config) {
+		//System.out.println(config.getServletName());
+
+	//}
+
+

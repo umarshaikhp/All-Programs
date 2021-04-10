@@ -1,0 +1,12 @@
+1616041432116	Move compilation unit
+1616041452323	Rename package 'Controller'
+1616041467641	Rename package 'com.Controller'
+1616044939929	Rename resource 'errorPage.xml'
+1616044950725	Rename resource 'spring-servlet.xml'
+1616044966810	Rename resource 'spring-servlet.jsp'
+1616044980262	Rename resource 'viewPage.xml'
+1616045116199	Delete element
+1616045122007	Delete element
+1616046247675	Move file
+1616047736770	Rename resource 'spring-servlet.xml'
+1616047866435	Rename resource 'spring.xml'

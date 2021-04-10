@@ -1,0 +1,23 @@
+package com.dao;
+
+import org.springframework.jdbc.core.JdbcTemplate;
+
+import com.controller.Emp;
+
+public class EmpDao {
+	JdbcTemplate template;
+
+	public JdbcTemplate getTemplate() {
+		return template;
+	}
+
+	public void setTemplate(JdbcTemplate template) {
+		this.template = template;
+	}
+
+	public void save(Emp emp) {
+    String sql = "insert into emp99 (name,salary,designation) values ('" +emp.getName()+ "" +emp.getSalary()+ "," +emp.getDesignation()+ "')";
+    template.update(sql);
+	}
+
+}

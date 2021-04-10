@@ -1,0 +1,19 @@
+package com.jsoft;
+
+public class B {
+	public static void main(String[] args) {
+		String name="java";
+		char c []=name.toCharArray();
+		//String reverse1="";
+		for(int i=4;i>=0;i--) {
+			System.out.println(c[i]);
+			//reverse1=reverse1+name.charAt(i);
+			}
+		//System.out.println(reverse1);
+		
+		//System.out.println(name.hashCode());
+		
+	}
+
+}
+

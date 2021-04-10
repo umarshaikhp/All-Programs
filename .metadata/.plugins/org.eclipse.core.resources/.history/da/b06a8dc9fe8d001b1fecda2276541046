@@ -1,0 +1,14 @@
+package com.dao;
+
+import java.util.List;
+
+import com.model.Student;
+
+public class StudentDao {
+
+	public static List<Student> getAllStudent() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

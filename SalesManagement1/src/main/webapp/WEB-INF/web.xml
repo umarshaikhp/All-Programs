@@ -1,0 +1,57 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>RegController</servlet-name>
+  	<display-name>RegController</display-name>
+  	<description></description>
+  	<servlet-class>com.controller.RegController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>SaleController</servlet-name>
+  	<display-name>SaleController</display-name>
+  	<description></description>
+  	<servlet-class>com.controller.SaleController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>SaleTransectionBean</servlet-name>
+  	<display-name>SaleTransectionBean</display-name>
+  	<description></description>
+  	<servlet-class>com.controller.SaleTransectionBean</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>SaleTransectionController</servlet-name>
+  	<display-name>SaleTransectionController</display-name>
+  	<description></description>
+  	<servlet-class>com.controller.SaleTransectionController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>RegControllers</servlet-name>
+  	<display-name>RegControllers</display-name>
+  	<description></description>
+  	<servlet-class>com.controller.RegControllers</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>RegController</servlet-name>
+  	<url-pattern>/RegController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>SaleController</servlet-name>
+  	<url-pattern>/SaleController</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+   	<servlet-name>SaleTransectionBean</servlet-name>
+  	<url-pattern>/SaleTransectionBean</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>SaleTransectionController</servlet-name>
+  	<url-pattern>/SaleTransectionController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>RegControllers</servlet-name>
+  	<url-pattern>/RegControllers</url-pattern>
+  </servlet-mapping>
+</web-app>

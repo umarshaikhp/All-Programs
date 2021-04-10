@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;HibernateMappingp&apos;" deleteContents="false" description="Delete resource &apos;HibernateMappingp&apos;" element1="/HibernateMappingp" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1613974654287"/>&#x0A;<refactoring comment="Delete resource &apos;SecondCache&apos;" deleteContents="false" description="Delete resource &apos;SecondCache&apos;" element1="/SecondCache" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1613981496931"/>
+</session>

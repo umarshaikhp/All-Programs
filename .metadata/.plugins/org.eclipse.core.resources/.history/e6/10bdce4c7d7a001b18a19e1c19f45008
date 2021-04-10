@@ -1,0 +1,42 @@
+
+public class ThredGroupDemo implements Runnable{
+
+	@Override
+	public void run() {
+		for (int i = 0; i < 5; i++) {
+		System.out.println(i);
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+			}
+
+
+		
+		System.out.println(Thread.currentThread().getName());
+		// TODO Auto-generated method stub
+		
+	}
+	public static void main(String[] args) {
+		ThredGroupDemo runnable = new ThredGroupDemo();
+		ThreadGroup tg1 = new ThreadGroup("Parent threadGroup");
+		Thread t1 = new Thread(tg1,runnable,"one");
+		t1.start();
+
+		Thread t2 =new Thread(tg1,runnable,"two");
+		t2.start();
+
+		Thread t3 =new Thread(tg1,runnable,"three");
+		t3.start();
+		//tg1.suspend();//Thread will go to wait
+		//tg1.resume();Thread will be resume means start again
+		//tg1.interrupt();
+		System.out.println("Thread Group Name"+tg1.getName());
+		
+		tg1.list();
+		
+	}
+
+}

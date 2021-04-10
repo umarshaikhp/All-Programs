@@ -1,0 +1,33 @@
+package com.crud;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.dao.StudentDao;
+import com.model.Student;
+
+@Controller
+public class CrudController {
+	@Autowired
+	StudentDao studentDao;
+	
+	@RequestMapping("/")
+	public String addStudent(Model model) {
+		model.addAttribute("title", "add product");
+		return "add";
+		
+	}
+	
+	@RequestMapping("/success")
+	public String home(Model model) {
+		List<Student> allStudents = studentDao.getAllStudent();
+		model.addAttribute("allStudent", allStudents);
+		return "success";
+		
+	}
+
+}

@@ -1,0 +1,18 @@
+package com.jsoft;
+
+public class Demo {
+	public static void main(String[] args) {
+		int min;
+	int a[]= {12,15,37,-1,48};
+	min=a[0];
+	
+	for(int i=2;i<=5;i++) {
+		if(a[i]>min) {
+			min=a[i];
+			System.err.println(min);
+		}
+			
+		}
+	}
+
+}

@@ -1,0 +1,163 @@
+
+Feb 27, 2020 11:32:28.15 NEW SESSION
+Feb 27, 2020 11:32:28.15 [5836:5528:0227/113228.151:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 27, 2020 11:32:40.58 [5836:5528:0227/113240.583:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2020 12:17:43.53 [5836:5528:0227/121743.530:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 27, 2020 12:19:48.94 [5836:5528:0227/121948.946:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2020 12:34:46.45 [5836:5528:0227/123446.449:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 27, 2020 14:06:09.84 [5836:5528:0227/140609.847:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 27, 2020 14:43:17.14 [5836:5528:0227/144317.141:ERROR:checkin_request.cc(223)] Failed to get checkin response. Fetcher failed. Retrying.
+Feb 27, 2020 14:43:17.49 [5836:2276:0227/144317.141:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 27, 2020 17:07:22.70 [5836:5528:0227/170722.704:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 27, 2020 17:41:20.97 [5836:1344:0227/174120.977:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 27, 2020 17:41:23.43 [5836:5528:0227/174123.437:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2020 17:41:41.56 [5836:5528:0227/174141.564:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2020 17:41:41.57 [5836:1344:0227/174141.566:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 27, 2020 17:42:05.98 [5836:1344:0227/174205.983:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 27, 2020 17:42:30.25 [5836:5528:0227/174230.255:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2020 17:43:59.03 [5836:1344:0227/174359.028:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 27, 2020 17:44:35.71 [5836:5528:0227/174435.710:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2020 17:46:43.08 [5836:1344:0227/174643.080:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 27, 2020 17:47:51.19 [5836:5528:0227/174751.198:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2020 17:53:05.09 [5836:1344:0227/175305.098:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 27, 2020 17:53:55.44 [5836:5528:0227/175355.440:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2020 17:59:17.33 [5836:2276:0227/175917.338:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 27, 2020 17:59:58.10 [5836:2276:0227/175958.100:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 27, 2020 18:00:50.56 [5836:2276:0227/180050.559:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 27, 2020 18:02:48.38 [5836:2276:0227/180248.381:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 27, 2020 18:03:11.12 [5836:1344:0227/180311.119:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 27, 2020 18:04:06.49 [5836:5528:0227/180406.492:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2020 18:06:36.63 [5836:2276:0227/180636.631:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 27, 2020 18:13:11.13 [5836:1344:0227/181311.138:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 27, 2020 18:13:55.12 [5836:2276:0227/181355.122:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 27, 2020 18:14:06.50 [5836:5528:0227/181406.504:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2020 18:23:22.19 [5836:1344:0227/182322.196:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 27, 2020 18:24:06.16 [5836:2276:0227/182406.167:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 27, 2020 18:24:06.50 [5836:5528:0227/182406.507:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Feb 27, 2020 18:33:28.21 [5836:1344:0227/183328.209:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 27, 2020 18:34:17.22 [5836:2276:0227/183417.218:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 27, 2020 18:34:17.56 [5836:5528:0227/183417.558:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Feb 27, 2020 20:18:15.95 NEW SESSION
+Feb 27, 2020 20:18:15.95 [2784:7760:0227/201815.859:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2020 20:18:39.45 [2784:7760:0227/201839.449:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2020 20:19:32.91 [2784:7760:0227/201932.914:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2020 20:20:39.28 [8156:8452:0227/202039.286:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2020 20:21:05.65 [8156:8452:0227/202105.657:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2020 20:21:49.11 [8156:8452:0227/202149.116:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2020 20:23:43.05 [8156:8452:0227/202343.050:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 27, 2020 20:27:38.80 [8156:8452:0227/202738.802:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Feb 28, 2020 12:05:27.58 NEW SESSION
+Feb 28, 2020 12:05:27.58 [5420:7932:0228/120527.582:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Feb 28, 2020 17:01:16.53 NEW SESSION
+Feb 28, 2020 17:01:16.53 [3976:6916:0228/170116.531:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 28, 2020 20:01:19.99 [3976:4084:0228/200119.998:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 28, 2020 20:01:23.26 [3976:6916:0228/200123.267:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2020 21:36:07.38 [3976:4084:0228/213607.385:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 28, 2020 21:36:08.05 [3976:6916:0228/213608.053:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 28, 2020 21:36:08.07 [3976:5636:0228/213608.057:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Feb 28, 2020 21:37:11.66 [3976:6916:0228/213711.668:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Feb 29, 2020 14:24:10.84 NEW SESSION
+Feb 29, 2020 14:24:10.84 [5188:6376:0229/142410.772:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 29, 2020 14:24:36.30 [5188:6376:0229/142436.302:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 29, 2020 14:51:04.62 [5188:496:0229/145104.626:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 29, 2020 15:04:26.84 [5188:496:0229/150426.844:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2020 15:10:15.17 [5188:496:0229/151015.175:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 29, 2020 15:10:18.37 [5188:496:0229/151018.371:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2020 15:10:45.15 [5188:496:0229/151045.152:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -109
+Feb 29, 2020 15:10:47.32 [5188:496:0229/151047.327:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2020 15:13:08.50 [5188:496:0229/151308.504:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -118
+Feb 29, 2020 15:24:38.86 [5188:496:0229/152438.862:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Feb 29, 2020 15:24:41.05 [5188:496:0229/152441.058:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2020 15:25:00.63 [5188:496:0229/152500.632:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Feb 29, 2020 15:28:52.01 [5188:496:0229/152852.016:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -118
+Feb 29, 2020 15:34:41.78 [5188:496:0229/153441.779:ERROR:socket_stream.cc(218)] Closing stream with result -2
+
+Feb 29, 2020 17:28:23.98 NEW SESSION
+Feb 29, 2020 17:28:23.98 [7528:1968:0229/172823.978:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 29, 2020 17:48:52.13 [7528:1968:0229/174852.131:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Mar 01, 2020 08:59:07.12 NEW SESSION
+Mar 01, 2020 08:59:07.12 [8204:6412:0301/085906.906:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Mar 01, 2020 09:09:29.35 [8204:6412:0301/090929.349:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2020 22:18:06.40 [8204:6412:0229/221805.969:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Feb 29, 2020 22:38:02.67 [8204:8716:0229/223802.671:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Feb 29, 2020 22:38:07.72 [8204:6412:0229/223807.616:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2020 22:52:20.82 [8204:6412:0229/225220.819:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2020 22:52:45.20 [8204:6412:0229/225245.205:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2020 22:53:37.99 [8204:6412:0229/225337.995:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Feb 29, 2020 23:41:38.64 [8204:6412:0229/234138.648:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Mar 01, 2020 24:06:28.55 [8204:6412:0301/000628.550:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Mar 01, 2020 24:06:31.95 [8204:8716:0301/000631.006:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 01, 2020 24:06:32.54 [8204:6412:0301/000632.542:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 01, 2020 24:21:51.55 [8204:8716:0301/002151.549:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 01, 2020 24:21:54.07 [8204:6412:0301/002154.000:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 01, 2020 24:22:14.90 [8204:6412:0301/002214.903:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Mar 01, 2020 24:25:35.22 [8204:6412:0301/002535.224:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Mar 01, 2020 01:23:08.70 [8204:8716:0301/012308.610:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 01, 2020 01:23:31.19 [8204:8716:0301/012331.196:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 01, 2020 01:24:25.87 [8204:8716:0301/012425.872:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 01, 2020 01:35:12.88 [8204:6412:0301/013512.883:ERROR:socket_stream.cc(218)] Closing stream with result -2
+Mar 01, 2020 04:35:19.04 [8204:8716:0301/043519.046:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 01, 2020 04:35:22.75 [8204:8432:0301/043519.049:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Mar 01, 2020 04:35:23.11 [8204:6412:0301/043522.944:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Mar 01, 2020 04:35:32.95 [8204:8432:0301/043532.958:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Mar 01, 2020 19:04:51.61 [8204:6412:0301/190451.611:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -7
+Mar 01, 2020 19:04:54.79 [8204:8716:0301/190452.630:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Mar 01, 2020 19:04:55.76 [8204:8432:0301/190454.865:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Mar 01, 2020 19:04:56.60 [8204:6412:0301/190456.044:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+
+Mar 19, 2020 01:08:14.17 NEW SESSION
+Mar 19, 2020 01:08:14.36 [12768:4248:0319/010813.664:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-6ilhNY6mjQEQ9pQ14zz/I7nMIcfHcceCwbNxtAalnbQ=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-5ArfzK+D442gOOu18DQ8eY13vaOV24n4bfqmSi17OoI=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-fLmgOLhnyIaxgfQuiOVP+mhFRdHP2zDXlKpsRJWBbr4='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Mar 19, 2020 01:08:14.42 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Mar 19, 2020 01:24:26.26 [12768:4248:0319/012426.259:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-6ilhNY6mjQEQ9pQ14zz/I7nMIcfHcceCwbNxtAalnbQ=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-5ArfzK+D442gOOu18DQ8eY13vaOV24n4bfqmSi17OoI=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-fLmgOLhnyIaxgfQuiOVP+mhFRdHP2zDXlKpsRJWBbr4='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Mar 19, 2020 01:24:26.33 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Mar 19, 2020 01:25:32.02 [12768:4248:0319/012532.024:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-6ilhNY6mjQEQ9pQ14zz/I7nMIcfHcceCwbNxtAalnbQ=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-5ArfzK+D442gOOu18DQ8eY13vaOV24n4bfqmSi17OoI=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-fLmgOLhnyIaxgfQuiOVP+mhFRdHP2zDXlKpsRJWBbr4='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Mar 19, 2020 01:25:32.08 ", source: chrome-search://local-ntp/local-ntp.html (1)
+Mar 19, 2020 02:47:58.94 [12768:4248:0319/024758.896:ERROR:CONSOLE(1)] "Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'strict-dynamic' 'sha256-1+GSDjMMklBjZY0QiWq+tGupCvajw4Xbn46ect2mZgM=' 'sha256-2mX1M62Fd0u8q0dQY2mRsK5S1NS9jJuQAvyE8tD0dkQ=' 'sha256-6ilhNY6mjQEQ9pQ14zz/I7nMIcfHcceCwbNxtAalnbQ=' 'sha256-HqdPsO6hNmT/mfSeGdcX3eEGrZVva7AKD2Z2+1ujCZ8=' 'sha256-5ArfzK+D442gOOu18DQ8eY13vaOV24n4bfqmSi17OoI=' 'sha256-IEF9PjeyU0vsr61C8cm3JQOerOYWdBsaGddCSPp6tZs=' 'sha256-RIDhH5uF+ciLoS6AP6ZkoxuwQyczkrTetThxXwVwFJI=' 'sha256-fLmgOLhnyIaxgfQuiOVP+mhFRdHP2zDXlKpsRJWBbr4='". Either the 'unsafe-inline' keyword, a hash ('sha256-...'), or a nonce ('nonce-...') is required to enable inline execution.
+Mar 19, 2020 02:47:59.12 ", source: chrome-search://local-ntp/local-ntp.html (1)
+
+Oct 05, 2020 01:47:08.81 NEW SESSION
+Oct 05, 2020 01:47:08.96 [1500:8728:1005/014708.081:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Oct 05, 2020 05:27:49.25 [1500:6888:1005/052748.590:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 05, 2020 05:58:12.86 [1500:6888:1005/055812.862:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2020 06:02:33.12 [1500:6888:1005/060233.127:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+Oct 07, 2020 02:19:05.38 NEW SESSION
+Oct 07, 2020 02:19:05.38 [11852:9408:1007/021904.930:ERROR:media_history_store.cc(363)] Failed to create or update the media history store.
+Oct 07, 2020 03:07:52.35 [11852:1812:1007/030752.323:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 07, 2020 03:36:10.28 [11852:1812:1007/033610.280:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+Oct 07, 2020 03:36:12.53 [11852:1812:1007/033612.532:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2020 03:37:04.97 [11852:1812:1007/033704.971:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2020 04:45:55.02 [11852:1812:1007/044555.026:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 07, 2020 07:08:31.47 [11852:1812:1007/070831.472:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 07, 2020 07:08:43.13 [11852:1812:1007/070837.866:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2020 07:09:06.05 [11852:1812:1007/070906.055:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2020 07:10:00.03 [11852:1812:1007/071000.035:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2020 07:11:44.58 [11852:1812:1007/071144.580:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2020 07:14:48.13 [11852:1812:1007/071448.133:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2020 07:20:28.28 [11852:1812:1007/072028.284:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2020 07:23:20.50 [11852:1812:1007/072320.500:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Oct 15, 2020 11:33:39.27 NEW SESSION
+Oct 15, 2020 11:33:39.27 [9192:5344:1015/113339.256:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2020 11:34:05.81 [9192:5344:1015/113405.815:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2020 11:35:03.50 [9192:5344:1015/113503.508:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2020 11:37:01.09 [9192:5344:1015/113701.090:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2020 11:40:19.92 [9192:5344:1015/114019.921:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2020 11:43:09.86 [1015/114309.815:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Oct 15, 2020 11:46:23.32 [9192:5344:1015/114623.325:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2020 11:56:23.34 [9192:5344:1015/115623.343:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2020 13:13:10.98 [9192:5344:1015/131310.758:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 15, 2020 13:42:15.31 [9192:5344:1015/134215.314:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 15, 2020 13:42:25.22 [9192:5344:1015/134225.223:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 15, 2020 13:42:28.44 [9192:5344:1015/134228.449:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2020 15:24:49.19 [9192:6132:1015/152449.191:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Invalid credentials (credentials rejected by client).
+Oct 15, 2020 17:28:42.00 [9192:5344:1015/172836.674:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 15, 2020 17:29:22.51 [9192:5344:1015/172922.511:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 15, 2020 18:03:09.19 [9192:5344:1015/180309.149:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 15, 2020 18:34:37.99 [9192:5344:1015/183437.995:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Oct 15, 2020 19:08:48.60 [9192:5344:1015/190848.600:ERROR:socket_stream.cc(219)] Closing stream with result -2

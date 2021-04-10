@@ -1,0 +1,44 @@
+package com.hibernatemapping;
+
+import javax.persistence.criteria.From;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+
+public class AppTest {
+	public static void main(String[] args) {
+		SessionFactory configuration = new Configuration().configure().buildSessionFactory();
+		Session session = configuration.openSession();
+		Transaction transaction = session.beginTransaction();
+
+		
+		  Employee employee=new Employee(); 
+		  employee.setName("umar");
+		  employee.setEmail("umarshaikh8452@gmail.com");
+		  
+		  
+		  
+		  Address address=new Address();
+		  address.setAddressLine1("sakiaka tilak nagar"); 
+		  address.setCity("mumbai");
+		  address.setState("maharastra"); 
+		  address.setCountry("india");
+		  address.setPincode(400072);
+		  
+		 // employee.setAddress(address); 
+		  //address.setEmployee(employee);
+		  session.persist(employee); 
+		  //session.persist(address);
+		 
+
+		//Employee employee1 = session.get(Employee.class, 2);
+		// employee.setEmployeeId(2);
+		// address.setAddressId(2);
+//		session.delete(employee);
+		transaction.commit();
+		System.out.println("Done");
+
+	}
+}

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\umar\eclipse-workspace\project1\src\com\jsoft\Demo1.java"/>
+			<item value="C:\Users\umar\eclipse-workspace\project1"/>
+			<item value="C:\Users\umar\eclipse-workspace\ConstructorInjection1\src\main\java\com\constructorinjection\App.java"/>
+			<item value="C:\Users\umar\eclipse-workspace\ConstructorInjection\pom.xml"/>
+			<item value="C:\Users\umar\eclipse-workspace\ManyToOne"/>
+			<item value="C:\Users\umar\eclipse-workspace\HibernateMappingp"/>
+			<item value="C:\Users\umar\eclipse-workspace\hibernatemapping\src\test\java\com\hibernatemapping\AppTest.java"/>
+			<item value="C:\Users\umar\eclipse-workspace\InsertInDatabase"/>
+			<item value="C:\Users\umar\eclipse-workspace\HybernateInsert"/>
+			<item value="C:\Users\umar\eclipse-workspace\Crud_operation"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.springmvc_crud.springmvc_crudhibernte"/>
+			<item value="com.SpringMVC.SpringMVC1"/>
+			<item value="com.SpringMVC.SpringMVC"/>
+			<item value="com.constructorinjection.ConstructorInjectionMap"/>
+			<item value="com.constructorinjection1.ConstructorInjection1"/>
+			<item value="com.SpringFirst.SpringFirstExample"/>
+			<item value="com.secondcache"/>
+			<item value="com.manytomany.ManyToMany"/>
+			<item value="com.manytoone.ManyToOne"/>
+		</list>
+		<list key="groupId">
+			<item value="com.springmvc-crud"/>
+			<item value="com.SpringMVC"/>
+			<item value="com.constructorinjection"/>
+			<item value="com.constructorinjection1"/>
+			<item value="com.SpringFirst"/>
+			<item value="com.secondcache"/>
+			<item value="com.manytomany"/>
+			<item value="com.manytoone"/>
+		</list>
+		<list key="artifactId">
+			<item value="springmvc-crudhibernte"/>
+			<item value="SpringMVC1"/>
+			<item value="SpringMVC"/>
+			<item value="ConstructorInjectionMap"/>
+			<item value="ConstructorInjection1"/>
+			<item value="SpringFirstExample"/>
+			<item value="SecondCacheExample"/>
+			<item value="SecondCache"/>
+			<item value="ManyToMany"/>
+			<item value="ManyToOne"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="SpringFirstDemo"/>
+			<item value="ConstructorInjection"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="SpringFirstDemo"/>
+			<item value="ConstructorInjection"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

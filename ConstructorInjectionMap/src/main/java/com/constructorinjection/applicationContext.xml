@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans  
+    xmlns="http://www.springframework.org/schema/beans"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xmlns:p="http://www.springframework.org/schema/p"  
+    xsi:schemaLocation="http://www.springframework.org/schema/beans   
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd"> 
+
+<bean id="answer1" class="com.constructorinjection.Answer">
+<constructor-arg value="1"></constructor-arg>
+<constructor-arg value="java is a programming language"></constructor-arg>
+<constructor-arg value="12/2/2020"></constructor-arg>
+</bean> 
+
+<bean id="answer2" class="com.constructorinjection.Answer">
+<constructor-arg value="2"></constructor-arg>
+<constructor-arg value="java is a programming language"></constructor-arg>
+<constructor-arg value="15/3/2020"></constructor-arg>
+</bean> 
+
+<bean id="user1" class="com.constructorinjection.User">
+<constructor-arg value="1" type="int" index="0"></constructor-arg>
+<constructor-arg value="umarshaikh" index="1"></constructor-arg>
+<constructor-arg value="umarshaikh8452@gmail.com" index="2"></constructor-arg>
+</bean>
+
+<bean id="user2" class="com.constructorinjection.User">
+<constructor-arg value="2" type="int" index="0"></constructor-arg>
+<constructor-arg value="khalidkhan" index="1"></constructor-arg>
+<constructor-arg value="khalidkhan1234@gmail.com" index="2"></constructor-arg>
+</bean>
+
+<bean id="q" class="com.constructorinjection.Question">
+<constructor-arg value="1"></constructor-arg>
+<constructor-arg value="what is java"></constructor-arg>
+<constructor-arg>
+<map>
+<entry key-ref="answer1" value-ref="user1"></entry>
+<entry key-ref="answer2" value-ref="user2"></entry>
+</map>
+
+</constructor-arg>
+
+</bean>
+</beans>

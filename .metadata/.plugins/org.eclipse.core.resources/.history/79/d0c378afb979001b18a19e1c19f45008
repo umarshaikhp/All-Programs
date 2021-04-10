@@ -1,0 +1,16 @@
+
+public class ThreadNaming extends Thread{
+public void run()
+{
+    System.out.println("running");
+}
+
+public static void main(String[] args)
+{
+    ThreadNaming t1 = new ThreadNaming();
+
+    t1.start();
+
+    System.out.println(t1.getName());   
+}   
+}

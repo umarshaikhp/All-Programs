@@ -1,0 +1,7 @@
+<classpath>
+  <container id="CookieDemo!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/umar/eclipse-workspace/CookieDemo/WebContent/WEB-INF/lib/javax.servlet-api-3.0.1.jar">
+      <source-attachment-path>/CookieDemo/WebContent/WEB-INF/lib/javax.servlet-api-3.0.1.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>
